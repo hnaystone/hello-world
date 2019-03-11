@@ -1,2 +1,3 @@
 # hello-world
-my first helloworld
+Hi, stone here. 
+this is my first helloworld.
